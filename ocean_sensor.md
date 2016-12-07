@@ -1,3 +1,9 @@
+---
+title: Capteurs océanographiques opensource / application biologie marine
+description : Projet Explore Roland Jourdain - Concarneau-Partenaires = Astrolabe Expédition, Patrice L'Helgouarch, François Legrand, Xavier Coadic, Sylvain Pujol
+image_url: https://framapic.org/l4Wug9xsExZI/Tih53AQwMhbO.jpg
+---
+
 # [[#OceanisOpen](https://explore.hackpad.com/ep/search/?q=%23OceanisOpen&via=sbt8S4FfmD6)] Capteurs océanographiques opensource / application biologie marine
 
 Projet Explore Roland Jourdain - Concarneau
