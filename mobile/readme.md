@@ -1,4 +1,10 @@
-Citizen Sensor
+---
+title: Intro 
+description: DIY environmental and air quality monitor
+image_url:
+---
+
+# Citizen Sensor
 
 http://citizensensor.cc
 
